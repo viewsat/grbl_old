@@ -12,11 +12,14 @@
 
 
 ### A Machine in Action
-https://user-images.githubusercontent.com/26599790/117642339-12d76100-b17f-11eb-941d-1dac84b9935f.mp4
+https://user-images.githubusercontent.com/26599790/142923520-d34e4017-32c8-4632-aa72-8c807e849486.mp4
 
 ### Wiring Diagram
 
 ![File](img/arduino_wiring.jpg)
+
+
+
 
 
 
